@@ -31,7 +31,7 @@ I also improved my skills in Linux command usage and Wazuh agent–manager confi
 
 REPORT
 
-[Linux File Integrity Monitoring using Wazuh](https://github.com/TheCyberMask/Threat-Hunting-Home-Lab-using-Velociraptor/blob/main/Threat%20Hunting%20Home%20Lab%20using%20Velociraptor.pdf)
+[Linux File Integrity Monitoring using Wazuh](https://github.com/TheCyberMask/Linux-File-Integrity-Monitoring-using-Wazuh/blob/main/Linux%20File%20Integrity%20Monitoring%20using%20Wazuh.pdf)
 
 
 
