@@ -29,6 +29,11 @@ I learned how FIM helps improve security by quickly identifying unauthorized or 
 I also improved my skills in Linux command usage and Wazuh agent–manager configuration during the project.
 
 
+REPORT
+
+[Linux File Integrity Monitoring using Wazuh](https://github.com/TheCyberMask/Threat-Hunting-Home-Lab-using-Velociraptor/blob/main/Threat%20Hunting%20Home%20Lab%20using%20Velociraptor.pdf)
+
+
 
 
 
